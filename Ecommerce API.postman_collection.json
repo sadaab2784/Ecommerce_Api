@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "941c185b-902e-481b-93ab-f6466f9bd09c",
-		"name": "Ecommerce API",
+		"_postman_id": "fc4ea001-9c53-4368-ad64-dfe076a2ceb1",
+		"name": "Ecommerce Api",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "21822288"
+		"_exporter_id": "21465302"
 	},
 	"item": [
 		{
@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "\r\n\r\n{\r\n    \"name\": \"Banana\",\r\n    \"quantity\": \"125\"\r\n}\r\n\r\n",
+					"raw": "\r\n\r\n{\r\n    \"name\": \"laptop\",\r\n    \"quantity\": \"125\"\r\n}\r\n\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
